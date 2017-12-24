@@ -34,3 +34,14 @@ h4 {
   font-size: 14px;
   font-weight: normal;
 }
+
+.subheading {
+  background-size: auto;
+  background: url("../images/the-flatiron-building.png");
+  text-align: center;
+}
+
+.subheading h2 {
+  font-size: 23px;
+  color: white;
+}
