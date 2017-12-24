@@ -6,12 +6,21 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  margin-bottom: 20px;
+}
+
+ul {
+  padding-left: 0px;
 }
 
 .heading {
-  height: 310px;
+  height: 290px;
   background-size: auto;
   background: url("../images/the-flatiron-building.png");
+  text-align: center;
+}
+
+.section {
   text-align: center;
 }
 
@@ -44,4 +53,30 @@ h4 {
 .subheading h2 {
   font-size: 23px;
   color: white;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.footer a {
+  font-size: 20px;
+}
+
+a:link{
+  color:white;
+}
+a:visited{
+  color:white;
+}
+a:hover{
+  color:white;
+}
+a:focus{
+  color:white;
+}
+a:active{
+  color:white;
 }
